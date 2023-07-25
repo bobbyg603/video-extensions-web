@@ -1,15 +1,22 @@
 {
-	"name": "video-extensions",
-	"version": "1.2.0",
+	"name": "video-extensions-web",
+	"version": "2.0.0",
 	"description": "List of video file extensions",
 	"license": "MIT",
-	"repository": "sindresorhus/video-extensions",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"repository": "https://github.com/bobbyg603/video-extensions",
+	"funding": "https://github.com/sponsors/bobbyg603",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
-	},
+		"name": "Bobby Galli",
+		"email": "bobbyg603@gmail.com",
+		"url": "bobbyg603.com"
+	  },
+	  "contributors": [
+		{
+		  "name": "Sindre Sorhus",
+		  "email": "sindresorhus@gmail.com",
+		  "url": "sindresorhus.com"
+		}
+	  ],
 	"type": "module",
 	"main": "index.js",
 	"engines": {
