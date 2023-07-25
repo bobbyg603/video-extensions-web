@@ -10,16 +10,14 @@
 		"email": "sindresorhus@gmail.com",
 		"url": "https://sindresorhus.com"
 	},
-	"main": "video-extensions.json",
+	"type": "module",
+	"main": "index.js",
 	"engines": {
-		"node": ">=0.10.0"
+		"node": ">=16"
 	},
 	"scripts": {
 		"test": "ava"
 	},
-	"files": [
-		"video-extensions.json"
-	],
 	"keywords": [
 		"ext",
 		"extensions",
@@ -36,6 +34,6 @@
 		"mkv"
 	],
 	"devDependencies": {
-		"ava": "^2.4.0"
+		"ava": "^5.3.1"
 	}
 }

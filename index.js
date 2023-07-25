@@ -1,4 +1,4 @@
-[
+const videoExtensions = [
 	"3g2",
 	"3gp",
 	"aaf",
@@ -33,4 +33,6 @@
 	"webm",
 	"wmv",
 	"yuv"
-]
+];
+
+export default videoExtensions;
